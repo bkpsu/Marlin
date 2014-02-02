@@ -552,6 +552,8 @@
     #endif
   #endif
 
+  #define PHOTOGRAPH_PIN         4
+
   #ifdef TEMP_STAT_LEDS
     #if MOTHERBOARD == 67
       #define STAT_LED_RED       6
